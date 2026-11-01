@@ -1,83 +1,63 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/u2kdev/u2kdev/main/assets/hero-v3.svg" width="100%" alt="u2kdev — editorial masthead" />
 
-<img src="https://raw.githubusercontent.com/u2kdev/u2kdev/main/assets/hero.svg" width="100%" alt="u2kdev — backend swe · solo founder · automations" />
+## 01 — WHO I AM
 
-[EN](#-en) · [RU](#-ru)
+I am a backend engineer building technology products alone — from the first API line to the production database to the shipped interface.
 
-```bash
-➜  ~ whoami
-  umar ✦ backend swe ✦ solo founder ✦ tashkent / TTPU
-➜  ~ uptime
-  vibes stable · automations running · no downtime
-```
+Solo founder mode: I take products end-to-end, without hand-offs.
 
-<!-- TODO: {DISCORD_ID} → твой Discord ID, {SPOTIFY_UID} → твой Spotify UID -->
-
-<br/>
-
-<span>**PROJECTS**</span>
-
-| repo | what it is |
-|---|---|
-| **[turintime](https://github.com/u2kdev/turintime)** | TTPU schedule: PWA (RU/EN, офлайн) + Telegram-бот в одном процессе |
-| **[edu](https://github.com/u2kdev/edu)** | e-darschi — multi-tenant SaaS LMS: расписание, журнал, платежи, мобильный кабинет |
-| **[UZDF](https://github.com/u001us/UZDF)** | Federation platform: приложение + сайт + сервер / CRM |
-| **[uzbook](https://github.com/u2kdev/uzbook)** | reading app |
-| **[opencode_limiter](https://github.com/u2kdev/opencode_limiter)** | лимитеры / AI-воркфлоу |
-
-<br/>
-
-<span>**STACK**</span>
-
-```yaml
-stack:
-  python:      1.0
-  fastapi:     1.0
-  django:      0.9
-  typescript:  0.95
-  nextjs:      0.9
-  postgresql:  1.0
-  docker:      1.0
-  dart:        0.85
-```
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/u2kdev/u2kdev/main/assets/divider.svg" width="100%" />
-
-<div align="center">
-
-**CONTACT**
-
-[GitHub](https://github.com/u2kdev) · [Telegram](https://t.me/u2kdev) · [Email](mailto:hello@u2k.dev)
-
-`Always building. Always exploring.`
-
-`© u2kdev`
-
-</div>
+Previously: student at TTPU; now: software engineer building products, APIs and automation systems.
 
 ---
 
-<img src="https://raw.githubusercontent.com/u2kdev/u2kdev/main/assets/divider.svg" width="100%" />
+## 02 — PROJECTS
 
-## 🕹 RU
+### 01 — [turintime](https://github.com/u2kdev/turintime)
 
-**[← EN](#-en)**
+Time table platform for TTPU: PWA (RU/EN, offline) + Telegram bot in one process — live schedule, morning digests, reminders.
 
-```bash
-➜  ~ whoami
-  Умар ✦ backend-инженер ✦ solo founder ✦ Ташкент / TTPU
-➜  ~ uptime
-  вайб-кодинг активен · автоматизации запущены · таймаутов нет
-```
+**Stack:** FastAPI · PWA · Telegram bot
 
-**Проекты:** turintime · edu · UZDF · uzbook · opencode_limiter.
+### 02 — [edu](https://github.com/u2kdev/edu)
 
-**Связь:** [Telegram](https://t.me/u2kdev) · [Email](mailto:hello@u2k.dev)
+e-darschi — multi-tenant SaaS LMS for learning centers: schedule, attendance, gradebook, homework, payments, mobile cabinet.
 
-<div align="center">
+**Stack:** Next.js 14 · TypeScript · Prisma · PostgreSQL
 
-`связь открыта` · `© u2kdev`
+### 03 — [UZDF](https://github.com/u001us/UZDF)
 
-</div>
+Federation platform: application + website + server / CRM.
+
+**Stack:** Dart · Flutter
+
+### 04 — [uzbook](https://github.com/u2kdev/uzbook)
+
+Reading app.
+
+### 05 — [opencode_limiter](https://github.com/u2kdev/opencode_limiter)
+
+Limiters / AI workflow automation.
+
+---
+
+## 03 — ENGINEERING
+
+**BACKEND** — Python · FastAPI · Django · PostgreSQL · Prisma · Redis
+
+**FRONTEND** — TypeScript · Next.js · React
+
+**MOBILE** — Dart · Flutter
+
+**INFRA** — Docker · Nginx · GitHub Actions · PostgreSQL
+
+---
+
+## 04 — CONTACT
+
+[GitHub](https://github.com/u2kdev) · [Telegram](https://t.me/u2kdev) · [Email](mailto:hello@u2k.dev)
+
+Always building. Always exploring.
+
+---
+
+`© u2kdev`
