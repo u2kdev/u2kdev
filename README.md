@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/u2kdev/u2kdev/main/assets/hero.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/u2kdev/u2kdev/main/assets/hero.svg" width="100%" alt="u2kdev — backend swe · solo founder · automations" />
 
 [EN](#-en) · [RU](#-ru)
 
