@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/u2kdev/u2kdev/main/assets/hero.svg" width="100%" />
 
-[![EN](https://img.shields.io/badge/EN-ON-0d1117?style=for-the-badge&labelColor=161b22&color=161b22)](#-en) [![RU](https://img.shields.io/badge/RU-PEREYTI-0d1117?style=for-the-badge&labelColor=161b22&color=161b22)](#-ru)
+[EN](#-en) · [RU](#-ru)
 
 ```bash
 ➜  ~ whoami
@@ -47,7 +47,13 @@ stack:
 
 <div align="center">
 
-`⌘ EOF — пиши в telegram, если строишь что-то интересное` · `© u2kdev`
+**CONTACT**
+
+[GitHub](https://github.com/u2kdev) · [Telegram](https://t.me/u2kdev) · [Email](mailto:hello@u2k.dev)
+
+`Always building. Always exploring.`
+
+`© u2kdev`
 
 </div>
 
