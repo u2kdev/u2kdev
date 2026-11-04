@@ -35,7 +35,6 @@ interests →  AI agents · Robotics · UAV
 |:--|:--|:--|
 | **[edu](https://github.com/u2kdev/edu)** | **e-darschi**: multi-tenant SaaS LMS for learning centers. Schedule, attendance, gradebook, homework and payments in one system. | `Next.js 14` `TypeScript` `Prisma` `PostgreSQL` |
 | **[uzbook](https://github.com/u2kdev/uzbook)** | Minimal reading tracker: progress, book lists and a simple reading journal. | `TypeScript` `React` `Node.js` `PostgreSQL` |
-| **[opencode_limiter](https://github.com/u2kdev/opencode_limiter)** | AI workflow automation tools. | `Python` |
 | **[drones](https://github.com/u2kdev/drones)** | UAV project for DFU. | `Python` |
 
 > More on [my repositories page](https://github.com/u2kdev?tab=repositories).
