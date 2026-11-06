@@ -102,7 +102,7 @@ interests →  AI agents · Robotics · UAV
 ### Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-u2kdev-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u2kdev)
-[![Telegram](https://img.shields.io/badge/Telegram-@u2kdev-0A0A0A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/u2kdev)
+[![Telegram](https://img.shields.io/badge/Telegram-@umwrv-0A0A0A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/umwrv)
 
 <sub>Always building. Always exploring.</sub>
 
